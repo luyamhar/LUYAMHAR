@@ -81,6 +81,7 @@ html{
         width: 70%;
         border: 3px solid #A7C1E5;
         padding: 10px;
+    
     }
     .banner img{
         width:100%;
@@ -815,3 +816,20 @@ html{
     color: white;
   }
 
+  .our_story{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+
+   }
+
+   .our_story{
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+
+}
+.our_story img{
+    width:100%;
+}
+  
