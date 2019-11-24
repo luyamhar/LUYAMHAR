@@ -50,7 +50,7 @@ html{
         padding:5px 55px;
     }
     .top-menu-cash-rebate-button{
-        background: #4fd1c5;
+        background: #FCE3D1;
         color: #fff !important;
         padding: 5px;
         z-index: 99;
@@ -58,7 +58,7 @@ html{
         text-decoration: none !important;
     }
     .top-menu-cash-rebate-button:hover{
-        background-color: #4fd1c5bf;
+        background-color: #A7C1E5;
     }
     .menu-bd .left-col a,.menu-bd .right-col a{
         color:#797d7f;
@@ -79,7 +79,7 @@ html{
     .banner{
         margin: auto;
         width: 70%;
-        border: 3px solid #76d7c4;
+        border: 3px solid #A7C1E5;
         padding: 10px;
     }
     .banner img{
@@ -88,7 +88,7 @@ html{
     .menu-1{
         /* background-color:#76d7c4; */
     }
-    .menu-1 .honor_slide .item{padding-top: 8px; background-color: #76d7c4;}
+    .menu-1 .honor_slide .item{padding-top: 8px; background-color: #A7C1E5;}
     .item{
         padding-right:0;
         text-align: center;
@@ -407,7 +407,7 @@ html{
         -webkit-line-clamp: 2;
     }
     .menu-link i{
-        color: #76d7c4
+        color: #A7C1E5
     }
     .nav_overflow{
         overflow: hidden;
@@ -783,4 +783,34 @@ html{
         .bows-btn{
             display:block;
         }
+
     }
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
